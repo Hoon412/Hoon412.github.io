@@ -1,0 +1,2 @@
+(this["webpackJsonphoon412.github.io"]=this["webpackJsonphoon412.github.io"]||[]).push([[0],{10:function(t,n,e){"use strict";e.r(n);var o=e(1),c=e.n(o),i=e(3),s=e.n(i),r=(e(8),e(0));var u=function(){return Object(r.jsx)("div",{className:"App"})};s.a.render(Object(r.jsx)(c.a.StrictMode,{children:Object(r.jsx)(u,{})}),document.getElementById("root"))},8:function(t,n,e){}},[[10,1,2]]]);
+//# sourceMappingURL=main.d85081ce.chunk.js.map
